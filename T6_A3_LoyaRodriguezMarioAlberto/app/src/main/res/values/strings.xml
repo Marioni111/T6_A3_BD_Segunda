@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proyecto1</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="app_contraseña">Contraseña</string>
+    <string name="btn_aceptar_login">ACEPTAR</string>
+    <string name="btn_cancelar_login">CANCELAR</string>
+    <string name="btnAgregar">Agregar un nuevo empleado</string>
+    <string name="btnEliminar">Eliminar empleados</string>
+    <string name="btnConsultar">Buscar empleados</string>
+    <string name="btnModifica">Modificar datos de los empleados</string>
+    <string name="txt_titulo_modificar">Modificar datos del cliente</string>
+    <string name="txt_titulo_agregar">Agregar un nuevo cliente</string>
+    <string name="txt_titulo_eliminar">Eliminar clientes existentes</string>
+    <string name="txt_titulo_buscar">Buscar clientes existentes</string>
+</resources>
